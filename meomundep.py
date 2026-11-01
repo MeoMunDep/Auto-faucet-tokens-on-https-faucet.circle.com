@@ -1,1 +1,1 @@
-
+print("Outdated");
